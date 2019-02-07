@@ -19,6 +19,16 @@ history transaksi
 
 
 3.Modul Pembeli
+Login
+reset Password
+view Profil
+dashboard produks
+view produks by kategori
+edit Profil
+memesan produks
+history pesanan
+CRUD massage/inbox
+logout
 
 
 
