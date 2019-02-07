@@ -28,7 +28,6 @@ CRUD data Pembeli
 CRUD data Penjual 
 CRUD transaksi
 report produks by kriteria
-report transaki by date 
 history transaksi
 
 3.Modul Pembeli
