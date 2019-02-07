@@ -1,0 +1,24 @@
+1.Modul Admin
+Login admin 
+reset Password
+logout
+Profil
+dashboard
+CRUD massage/inbox 
+CRUD kategori Produk olahan
+CRUD produks olahan
+CRUD data Pembeli  
+CRUD data Penjual 
+CRUD transaksi
+report produks by kriteria
+report transaki by date 
+history transaksi
+
+
+2.Modul Penjual 
+
+
+3.Modul Pembeli
+
+
+
